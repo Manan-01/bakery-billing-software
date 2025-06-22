@@ -1,0 +1,23 @@
+# Ignore Visual Studio and build files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build outputs
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.log
+
+# NuGet
+packages/
+*.nupkg
+
+# Misc
+*.tmp
+*.cache
+*.bak

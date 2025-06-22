@@ -1,0 +1,268 @@
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\obj\Debug\mainProject.vbproj.AssemblyReference.cache
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\mainProject.exe.config
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\mainProject.exe.manifest
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\mainProject.application
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\mainProject.exe
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\mainProject.pdb
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\mainProject.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\MySqlConnector.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\System.Buffers.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\System.Memory.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\EnvDTE.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\stdole.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\MySqlConnector.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\System.Buffers.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\System.Memory.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\EnvDTE.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\obj\Debug\mainProject.BillHistory.resources
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\obj\Debug\mainProject.Heart.resources
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\obj\Debug\mainProject.Inventory.resources
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\obj\Debug\mainProject.Order.resources
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\obj\Debug\mainProject.Main.resources
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\obj\Debug\mainProject.Resources.resources
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\obj\Debug\mainProject.Sales.resources
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\obj\Debug\mainProject.vbproj.GenerateResource.cache
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\obj\Debug\mainProject.vbproj.CoreCompileInputs.cache
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\obj\Debug\mainProject.exe.manifest
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\obj\Debug\mainProject.application
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\obj\Debug\mainProj.9180FCFF.Up2Date
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\obj\Debug\mainProject.exe
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\obj\Debug\mainProject.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject\obj\Debug\mainProject.pdb
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\obj\Debug\mainProject.vbproj.AssemblyReference.cache
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\obj\Debug\mainProject.exe
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\obj\Debug\mainProject.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\obj\Debug\mainProject.pdb
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\obj\Debug\mainProject.BillHistory.resources
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\obj\Debug\mainProject.Heart.resources
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\obj\Debug\mainProject.Inventory.resources
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\obj\Debug\mainProject.Order.resources
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\obj\Debug\mainProject.Main.resources
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\obj\Debug\mainProject.Resources.resources
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\obj\Debug\mainProject.Sales.resources
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\obj\Debug\mainProject.vbproj.GenerateResource.cache
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\obj\Debug\mainProject.vbproj.CoreCompileInputs.cache
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\mainProject.exe.config
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\mainProject.exe.manifest
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\mainProject.application
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\mainProject.exe
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\mainProject.pdb
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\mainProject.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\MySqlConnector.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\System.Buffers.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\System.Memory.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\EnvDTE.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\stdole.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\MySqlConnector.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\System.Buffers.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\System.Memory.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\EnvDTE.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\obj\Debug\mainProject.exe.manifest
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\obj\Debug\mainProject.application
+C:\Users\manan\OneDrive\Desktop\mainProject(final) - Copy\mainProject\obj\Debug\mainProj.9180FCFF.Up2Date
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\mainProject.exe.config
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\mainProject.exe.manifest
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\mainProject.application
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\mainProject.exe
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\mainProject.pdb
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\mainProject.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\MessagingToolkit.Barcode.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\MySqlConnector.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\System.Buffers.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\System.Memory.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\ThoughtWorks.QRCode.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\EnvDTE.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\stdole.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\MySqlConnector.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\System.Buffers.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\System.Memory.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\EnvDTE.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\obj\Debug\mainProject.vbproj.AssemblyReference.cache
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\obj\Debug\mainProject.exe.config
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\obj\Debug\mainProject.BillHistory.resources
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\obj\Debug\mainProject.Heart.resources
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\obj\Debug\mainProject.Inventory.resources
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\obj\Debug\mainProject.Order.resources
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\obj\Debug\mainProject.Main.resources
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\obj\Debug\mainProject.Resources.resources
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\obj\Debug\mainProject.Sales.resources
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\obj\Debug\mainProject.vbproj.GenerateResource.cache
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\obj\Debug\mainProject.vbproj.CoreCompileInputs.cache
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\obj\Debug\mainProject.exe.manifest
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\obj\Debug\mainProject.application
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\obj\Debug\mainProj.9180FCFF.Up2Date
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\obj\Debug\mainProject.exe
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\obj\Debug\mainProject.xml
+C:\Users\manan\OneDrive\Desktop\mainProject(final)\mainProject(final)\mainProject\obj\Debug\mainProject.pdb
